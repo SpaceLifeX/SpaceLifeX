@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Martin
 - 👀 I’m interested in IT generally
 - 🌱 I’m currently learning Univerzity - IT, 
-HTML, CSS, JS, JAVA, UNREAL ENGINE 4, VS, SQL, STATISTICA, WORKBENCH
+HTML, CSS, JS, Java, JAVA-OOP, UNREAL ENGINE 4, VS, SQL, STATISTICA, WORKBENCH
 
 - 💞️ new job 
 - 📫 liskamartin26@gmail.com, FB - Martin Líška
